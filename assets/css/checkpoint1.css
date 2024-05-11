@@ -1,0 +1,14 @@
+body {
+    background-color: #FCFCFC;
+    padding: 5%;
+    text-align: justify;
+    line-height: 20px;
+
+}
+
+div.container {
+    margin: auto;
+    width: 60%;
+    background-color: #FFFFFF;
+    padding: 50px;
+}
